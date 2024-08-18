@@ -2,8 +2,6 @@
 
 This repository contains the Power BI report analyzing sales data for the Superstore in the United States. The report is divided into three pages, each focusing on different aspects of the sales performance. The design credit goes to Naresh Suglani.
 
-## Report Pages
-
 ### 1. Summary Page
 The Summary page offers a comprehensive overview of the Superstore's key performance indicators.
 
