@@ -39,6 +39,6 @@ The Order Details page provides a detailed view of individual orders.
   - **Profit Chip:** A chip visual showing the profit amount.
   - **Profit Ratio:** The ratio of profit relative to sales, expressed as a percentage.
  
-![Order Details Page](images/Orders_Details.jpg)
+![Order Details Page](images/Order_Details.jpg)
 
 Each page is designed to provide a comprehensive analysis of the Superstore's sales data, enabling deeper insights into performance trends, regional differences, and order-specific details.
