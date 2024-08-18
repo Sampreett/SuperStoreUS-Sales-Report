@@ -12,6 +12,8 @@ The Summary page offers a comprehensive overview of the Superstore's key perform
 - **Sub-Category Sales vs Target Bar Chart:** Illustrates how sales in various product sub-categories measure up to their respective targets.
 - **Sales Trend:** A trend chart that shows sales data broken down weekly, monthly, and quarterly, offering a detailed view of sales patterns.
 
+![Summary Page](images/summary_page.png)
+
 ### 2. Regional Performance Page
 The Regional Performance page focuses on analyzing sales performance across different regions.
 
@@ -20,6 +22,8 @@ The Regional Performance page focuses on analyzing sales performance across diff
 - **Regional Orders Pie Charts:** Pie charts that display the total number of orders for each region and the share of each ship mode in the total orders.
 - **Product Delivery Time Scatter Chart:** A scatter chart that visualizes the average delivery time in days for products shipped via different modes.
 - **Filled Map of US Sales:** A filled map highlighting the sales distribution across different states in the United States, providing a geographic perspective on performance.
+
+![Regional Performance Page](images/regional_performance_page.png)
 
 ### 3. Order Details Page
 The Order Details page provides a detailed view of individual orders.
@@ -34,5 +38,7 @@ The Order Details page provides a detailed view of individual orders.
   - **Sales Bar:** A bar chart within the matrix showing the sales amount.
   - **Profit Chip:** A chip visual showing the profit amount.
   - **Profit Ratio:** The ratio of profit relative to sales, expressed as a percentage.
+ 
+![Order Details Page](images/order_details_page.png)
 
 Each page is designed to provide a comprehensive analysis of the Superstore's sales data, enabling deeper insights into performance trends, regional differences, and order-specific details.
