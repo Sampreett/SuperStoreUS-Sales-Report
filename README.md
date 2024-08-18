@@ -23,7 +23,7 @@ The Regional Performance page focuses on analyzing sales performance across diff
 - **Product Delivery Time Scatter Chart:** A scatter chart that visualizes the average delivery time in days for products shipped via different modes.
 - **Filled Map of US Sales:** A filled map highlighting the sales distribution across different states in the United States, providing a geographic perspective on performance.
 
-![Regional Performance Page](images/regional_performance_page.png)
+![Regional Performance Page](images/Regional_Performance.png)
 
 ### 3. Order Details Page
 The Order Details page provides a detailed view of individual orders.
