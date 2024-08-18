@@ -12,7 +12,7 @@ The Summary page offers a comprehensive overview of the Superstore's key perform
 - **Sub-Category Sales vs Target Bar Chart:** Illustrates how sales in various product sub-categories measure up to their respective targets.
 - **Sales Trend:** A trend chart that shows sales data broken down weekly, monthly, and quarterly, offering a detailed view of sales patterns.
 
-![Summary Page](images/Summary Page High Res..jpg)
+![Summary Page](images/Summary Page High Res.jpg)
 
 ### 2. Regional Performance Page
 The Regional Performance page focuses on analyzing sales performance across different regions.
